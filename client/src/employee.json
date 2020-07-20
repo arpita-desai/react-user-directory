@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "fname": "Harry",
+    "lname": "Peter",
+    "Position": "Intern"
+  },
+  {
+    "id": 102,
+    "fname": "Tom",
+    "lname": "Suh",
+    "Position": "Engineer"
+  },
+  {
+    "id": 103,
+    "fname": "Lilly",
+    "lname": "Zamora",
+    "Position": "Marketing Manager"
+  },
+  {
+    "id": 104,
+    "fname": "Ronny",
+    "lname": "Trent",
+    "Position": "Sales Executive"
+  },
+  {
+    "id": 105,
+    "fname": "Tina",
+    "lname": "Roy",
+    "Position": "Developer"
+  },
+  {
+    "id": 106,
+    "fname": "Dean",
+    "lname": "Willson",
+    "Position": "Developer"
+  }
+]
